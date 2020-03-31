@@ -1,0 +1,23 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+<<<<<<< HEAD
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/GroupProject.log
+=======
+
+>>>>>>> a08e32c692e70763a590615033fb1204e20f1c0b
