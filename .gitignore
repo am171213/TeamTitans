@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/GroupProject.log
