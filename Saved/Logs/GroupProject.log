@@ -1,4 +1,4 @@
-﻿Log file open, 03/30/20 20:50:21
+﻿Log file open, 03/30/20 21:22:55
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -553,3 +553,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.31-01.24.28:487][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000219 seconds (found 0 objects)
 [2020.03.31-01.24.28:487][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000320 seconds (updated 0 objects)
 [2020.03.31-01.24.28:882][  2]LogSlate: Took 0.011291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.31-01.25.26:980][176]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4B3FFE7E-4F42-8934-7DD1-8092ABA584D0}
+[2020.03.31-01.25.26:981][176]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C96D4AF0-45E9-7830-3505-F2803ED12EB6}
+[2020.03.31-01.25.26:981][176]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C766995B-457B-50D6-28EB-46B62E37ACD7}
